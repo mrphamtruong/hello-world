@@ -1,2 +1,4 @@
 # hello-world
-a test project
+Hello World!
+
+To day, i have learning something about Github!
